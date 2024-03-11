@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">LearnGit</string>
+
+    <string name="onboarding_welcome_title">Welcome to\nLearnGit</string>
+    <string name="onboarding_welcome_subtitle">Interactive git visualization and tutorial for beginners and advanced!</string>
+
+    <string name="onboarding_guide_title">Guide for\nBeginners</string>
+    <string name="onboarding_guide_subtitle">Our app will provide you with all the knowledge you need to become a Git expert.</string>
+
+    <string name="onboarding_challenge_title">Take the\nChallenge</string>
+    <string name="onboarding_challenge_subtitle">Our app allows you to test your Git knowledge in an interactive environment.</string>
+
+    <string name="levels_appbar_title">LearnGit</string>
+
+    <string name="settings_appbar_title">Settings</string>
+
+    <string name="lessons_appbar_title">Lessons</string>
+</resources>
